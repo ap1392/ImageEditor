@@ -1,0 +1,9 @@
+Load Test5x5.ppm test
+Sharpen test test-sharpen
+Save test-sharpen.ppm test-sharpen
+Blur test test-blur
+Save test-blur.ppm test-blur
+Sepia test test-sepia
+Save test-sepia.jpg test-sepia
+Greyscale test test-luma
+Save test-luma.jpeg test-luma
